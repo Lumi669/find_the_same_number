@@ -1,0 +1,20 @@
+{
+  "name": "find_the_same_number",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lumi669/find_the_same_number.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lumi669/find_the_same_number/issues"
+  },
+  "homepage": "https://github.com/Lumi669/find_the_same_number#readme"
+}
